@@ -1,6 +1,6 @@
 If you want to create test fixtures for your Django project there are two
 excellent options: `Model Mommy <http://model-mommy.readthedocs.io/>` and
-`Factory Boy <http://model-mommy.readthedocs.io/>`, which were inspired in their
+`Factory Boy <https://factoryboy.readthedocs.io/>`, which were inspired in their
 Ruby counterparts `Object Daddy <https://github.com/flogic/object_daddy>` and
 `Factory Girl <https://github.com/thoughtbot/factory_girl>`.
 
