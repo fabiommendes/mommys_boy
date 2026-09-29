@@ -1,3 +1,7 @@
+.. warning::
+
+   This project is no longer maintained. For Django test fixtures, see `model_bakery <https://github.com/model-bakers/model_bakery>`_ or `factory_boy <https://factoryboy.readthedocs.io>`_.
+
 If you want to create test fixtures for your Django project there are two
 excellent options: `Model Mommy <http://model-mommy.readthedocs.io/>` and
 `Factory Boy <http://model-mommy.readthedocs.io/>`, which were inspired in their
